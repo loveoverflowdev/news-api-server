@@ -41,7 +41,7 @@ final popularArticles = <NewsItem>[
       author: 'CSKH',
       publishedAt: DateTime(2022, 3, 17),
       imageUrl:
-          'https://i1-vnexpress.vnecdn.net/2022/07/27/ld1-6128-1658902170.jpg?w=1020&h=0&q=100&dpr=1&fit=crop&s=WoJ4ntqHUN_o7foNlo3kQQ',
+          'https://i1-vnexpress.vnecdn.net/2022/07/22/laodong-1448-1658483368.jpg?w=1020&h=0&q=100&dpr=1&fit=crop&s=rTYHYrHz8aC3Tr4TrRbqow',
       title: 'Lao động trở về từ Hàn Quốc khó tìm việc như ý',
       description: 'Hàn Quốc là thị trường xuất khẩu lao động truyền thống của Việt Nam trong ba mươi năm, '
       'khi hai nước bắt đầu hợp tác từ 1992. '
@@ -169,7 +169,7 @@ final businessItems = <NewsItem>[
       author: 'CSKH',
       publishedAt: DateTime(2022, 3, 17),
       imageUrl:
-          'https://i1-vnexpress.vnecdn.net/2022/07/27/ld1-6128-1658902170.jpg?w=1020&h=0&q=100&dpr=1&fit=crop&s=WoJ4ntqHUN_o7foNlo3kQQ',
+          'https://media.vneconomy.vn/w800/images/upload/2022/04/04/han-quoc.jpg',
       title: 'Lao động trở về từ Hàn Quốc khó tìm việc như ý',
       description: 'Hàn Quốc là thị trường xuất khẩu lao động truyền thống của Việt Nam trong ba mươi năm, '
       'khi hai nước bắt đầu hợp tác từ 1992. '
@@ -192,7 +192,7 @@ final businessItems = <NewsItem>[
         'Dù vậy, nhà tuyển dụng hứa hẹn tìm vị trí phù hợp với Lợi và sắp xếp thêm một buổi gặp gỡ tại trụ sở trước khi quyết định. Chưa từng có kinh nghiệm mảng này, song Lợi quyết tâm thử sức. Anh mong muốn mức lương trên 15 triệu đồng, được làm việc gần nhà để chăm sóc mẹ già, con trai ba tuổi.'
         'Hơn nửa năm về nước tìm việc làm mới, đôi lúc Lợi thấy "khó thích nghi" khi không có mối quan hệ, chưa am hiểu môi trường. Nhưng nhiều năm trải đời vất vả, sự kiên nhẫn là điều Lợi tự tin hơn người trẻ. Anh cũng mong muốn tìm được vị trí có cơ hội nói chuyện với người Hàn để học thêm ngoại ngữ do không có nhiều cơ hội giao tiếp trong những năm làm việc ở Hàn Quốc.',
       ),
-      const ImageBlock(imageUrl: 'https://i1-vnexpress.vnecdn.net/2022/07/27/ld1-6128-1658902170.jpg?w=1020&h=0&q=100&dpr=1&fit=crop&s=WoJ4ntqHUN_o7foNlo3kQQ')
+      const ImageBlock(imageUrl: 'https://media.vneconomy.vn/w800/images/upload/2022/07/01/han-quoc.jpg')
     ],
     url: Uri.parse(
       'https://vnexpress.net/lao-dong-tro-ve-tu-han-quoc-kho-tim-viec-nhu-y-4492699.html',
