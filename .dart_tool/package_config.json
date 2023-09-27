@@ -93,7 +93,7 @@
     },
     {
       "name": "collection",
-      "rootUri": "file:///C:/Users/LAPTOP%20TCC/AppData/Local/Pub/Cache/hosted/pub.dev/collection-1.17.1",
+      "rootUri": "file:///C:/Users/LAPTOP%20TCC/AppData/Local/Pub/Cache/hosted/pub.dev/collection-1.18.0",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
@@ -117,7 +117,7 @@
     },
     {
       "name": "dart_frog",
-      "rootUri": "file:///C:/Users/LAPTOP%20TCC/AppData/Local/Pub/Cache/hosted/pub.dev/dart_frog-1.0.1",
+      "rootUri": "file:///C:/Users/LAPTOP%20TCC/AppData/Local/Pub/Cache/hosted/pub.dev/dart_frog-0.3.8",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -171,9 +171,9 @@
     },
     {
       "name": "http",
-      "rootUri": "file:///C:/Users/LAPTOP%20TCC/AppData/Local/Pub/Cache/hosted/pub.dev/http-0.13.5",
+      "rootUri": "file:///C:/Users/LAPTOP%20TCC/AppData/Local/Pub/Cache/hosted/pub.dev/http-1.1.0",
       "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "3.0"
     },
     {
       "name": "http_methods",
@@ -207,9 +207,9 @@
     },
     {
       "name": "json_annotation",
-      "rootUri": "file:///C:/Users/LAPTOP%20TCC/AppData/Local/Pub/Cache/hosted/pub.dev/json_annotation-4.8.0",
+      "rootUri": "file:///C:/Users/LAPTOP%20TCC/AppData/Local/Pub/Cache/hosted/pub.dev/json_annotation-4.8.1",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "2.19"
     },
     {
       "name": "json_serializable",
@@ -452,7 +452,7 @@
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2023-09-27T07:10:27.421309Z",
+  "generated": "2023-09-27T08:31:48.696725Z",
   "generator": "pub",
   "generatorVersion": "3.1.2"
 }

@@ -7,11 +7,11 @@ environment:
   sdk: ">=2.19.0 <3.0.0"
 
 dependencies:
-  collection: ^1.16.0
-  dart_frog: ^1.0.1
+  collection: ^1.18.0
+  dart_frog: ^0.3.8
   equatable: ^2.0.5
-  http: ^0.13.5
-  json_annotation: ^4.6.0
+  http: ^1.1.0
+  json_annotation: ^4.8.1
   news_blocks:
     path: packages/news_blocks
 
