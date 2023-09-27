@@ -77,7 +77,7 @@ final popularArticles = <NewsItem>[
       author: 'CSKH',
       publishedAt: DateTime(2021, 4, 17),
       imageUrl:
-          'https://i1-vnexpress.vnecdn.net/2022/07/27/ld1-6128-1658902170.jpg?w=1020&h=0&q=100&dpr=1&fit=crop&s=WoJ4ntqHUN_o7foNlo3kQQ',
+          'https://i1-vnexpress.vnecdn.net/2022/07/27/ld3-4065-1658902170.jpg?w=1020&h=0&q=100&dpr=1&fit=crop&s=GAEPNyss7aHdjHZcMepujw',
       title: 'Lao động đăng ký đi Hàn Quốc tăng đột biến',
       description: 'Kỳ thi tuyển chọn 12.000 lao động đi làm việc tại Hàn Quốc '
       'theo Chương trình EPS song số đăng ký lên tới gần 23.500, cao nhất trong 10 năm qua.',
@@ -141,7 +141,7 @@ final businessItems = <NewsItem>[
       author: 'CSKH',
       publishedAt: DateTime(2022, 3, 17),
       imageUrl:
-          'https://i1-vnexpress.vnecdn.net/2022/07/27/ld1-6128-1658902170.jpg?w=1020&h=0&q=100&dpr=1&fit=crop&s=WoJ4ntqHUN_o7foNlo3kQQ',
+          'https://i1-giadinh.vnecdn.net/2023/01/11/666666666-147-1599-1673408602.jpg?w=1020&h=0&q=100&dpr=1&fit=crop&s=9-JoDGfHTti8ZujcceQa-Q',
       title: 'Người già Hàn Quốc đi làm nhiều hơn thanh niên',
       description: 'Lần đầu tiên trong lịch sử Hàn Quốc ghi nhận '
       'số lao động trên 60 tuổi đông hơn nhóm trong độ tuổi 20, '
@@ -205,7 +205,7 @@ final businessItems = <NewsItem>[
       author: 'CSKH',
       publishedAt: DateTime(2021, 4, 17),
       imageUrl:
-          'https://i1-vnexpress.vnecdn.net/2022/07/27/ld1-6128-1658902170.jpg?w=1020&h=0&q=100&dpr=1&fit=crop&s=WoJ4ntqHUN_o7foNlo3kQQ',
+          'https://i1-vnexpress.vnecdn.net/2022/07/27/ld3-4065-1658902170.jpg?w=1020&h=0&q=100&dpr=1&fit=crop&s=GAEPNyss7aHdjHZcMepujw',
       title: 'Lao động đăng ký đi Hàn Quốc tăng đột biến',
       description: 'Kỳ thi tuyển chọn 12.000 lao động đi làm việc tại Hàn Quốc '
       'theo Chương trình EPS song số đăng ký lên tới gần 23.500, cao nhất trong 10 năm qua.',
