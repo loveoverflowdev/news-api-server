@@ -1,0 +1,19 @@
+// **************************************************************************
+// JsonSerializableGenerator
+// **************************************************************************
+
+RelatedArticlesResponse _$RelatedArticlesResponseFromJson(
+        Map<String, dynamic> json) =>
+    RelatedArticlesResponse(
+      relatedArticles: const NewsBlocksConverter()
+          .fromJson(json['relatedArticles'] as List<Map<String, dynamic>>),
+      totalCount: json['totalCount'] as int,
+    );
+
+Map<String, dynamic> _$RelatedArticlesResponseToJson(
+        RelatedArticlesResponse instance) =>
+    <String, dynamic>{
+      'relatedArticles':
+          const NewsBlocksConverter().toJson(instance.relatedArticles),
+      'totalCount': instance.totalCount,
+    };
