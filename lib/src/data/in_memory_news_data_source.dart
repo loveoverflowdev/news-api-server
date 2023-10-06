@@ -1,8 +1,8 @@
 import 'dart:math' as math;
 
-import 'package:collection/collection.dart';
 import 'package:asura_news_api/api.dart';
 import 'package:asura_news_api/src/data/models/models.dart';
+import 'package:collection/collection.dart';
 import 'package:news_blocks/news_blocks.dart';
 
 part 'static_news_data.dart';

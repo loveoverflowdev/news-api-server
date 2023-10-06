@@ -43,7 +43,7 @@ PostGridTileBlock _$PostGridTileBlockFromJson(Map<String, dynamic> json) =>
 Map<String, dynamic> _$PostGridTileBlockToJson(PostGridTileBlock instance) {
   final val = <String, dynamic>{
     'id': instance.id,
-    'category': _$PostCategoryEnumMap[instance.category]!,
+    'category': _$PostCategoryEnumMap[instance.category],
     'author': instance.author,
     'published_at': instance.publishedAt.toIso8601String(),
   };
